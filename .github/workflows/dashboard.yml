@@ -68,3 +68,4 @@ jobs:
       with:
         app-name: 'qfc6j4ebudigw-dash'
         images: qfc6j4ebudigwcosureg.azurecr.io/techexcel/csdash:${{github.run_number}}
+        
